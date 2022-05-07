@@ -10,3 +10,43 @@ O Projeto da [Next Level Week](https://nextlevelweek.com/cronograma/8) Desta sem
 
 # Observações / Notas:
 Assim que o projeto foi dado fiquei chocado, é uma ideia incrível para um evento como esse e pretendo colcoar no meu portfólio!
+
+## Tecnologias Utilizadas:
+
+- ReactJS
+- Typescript
+- NodeJS
+- Vite
+- Express
+- Prisma
+- TailwindCSS
+- Headless UI > acessibilidade
+- html2canvas
+- phosphor-react
+- nodemailer
+- React Native
+- ExpoGo
+
+
+## Como inicializar
+**Iniciar servidor**
+
+```bash
+  cd server
+  npm start
+  npx prisma studio
+```
+
+**Iniciar Frond-end**
+```bash
+  cd web
+  npm run dev
+```
+
+**Iniciar Mobile [Expo Go](https://expo.dev/client)**
+```bash
+    cd mobile
+    Mudar o baseURL no src/lib/api para seu ipv4
+    expo start
+```
+
