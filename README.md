@@ -9,7 +9,7 @@
 O Projeto da [Next Level Week](https://nextlevelweek.com/cronograma/8) Desta semana é um widget de enviar feedback para os usuários enviarem suas opinioes e relatar problemas ao navegar em seu site! evento oferecido pela [@Rocketseat](https://github.com/Rocketseat).
 
 # Observações / Notas:
-Assim que o projeto foi dado fiquei chocado, é uma ideia incrível para um evento como esse e pretendo colcoar no meu portfólio!
+Assim que o projeto foi dado fiquei muito feliz, pois é uma ideia incrível para um evento como esse também pretendo adicionar ao portfólio!
 
 ## Tecnologias Utilizadas:
 
