@@ -50,3 +50,10 @@ Assim que o projeto foi dado fiquei chocado, é uma ideia incrível para um even
     expo start
 ```
 
+### Projeto em andamento...
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
